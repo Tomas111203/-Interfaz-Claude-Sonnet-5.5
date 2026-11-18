@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  var API = '/api/equipos';
+  var API = 'https://backend-sonnet-5-5.fly.dev/api/equipos';
   var app = document.getElementById('app');
   var renderToken = 0;
 
